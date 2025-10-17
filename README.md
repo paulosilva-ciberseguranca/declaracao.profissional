@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-  <h1>Declaração Profissional-Paulo Silva</h1>
+  <h1>Declaração Profissional - Paulo Silva</h1>
 
   <div class="section">
     <h2>Português</h2>
