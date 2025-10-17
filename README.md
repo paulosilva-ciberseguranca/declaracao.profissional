@@ -3,33 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Declaração Profissional - Paulo Silva</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #003366;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .contact {
-      font-size: 0.95em;
-      margin-top: 40px;
-      border-top: 1px solid #ccc;
-      padding-top: 15px;
-    }
-    .contact strong {
-      color: #003366;
-    }
-  </style>
-</head>
-<body>
+ 
 
   <h1>Declaração Profissional</h1>
 
