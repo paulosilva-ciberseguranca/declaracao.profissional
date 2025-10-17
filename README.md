@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-
   <h1>Declaração Profissional</h1>
 
   <div class="section">
@@ -22,6 +21,11 @@
       Tenho grande interesse nas áreas de análise de vulnerabilidades, resposta a incidentes e forense digital.
       Estou preparado para atuar em diferentes tipos de organizações — públicas ou privadas — oferecendo meus serviços para proteger dados sensíveis,
       ajudar na criação de políticas de segurança eficazes e investigar possíveis falhas de segurança e ataques cibernéticos.
+    </p>
+    <p>
+      Acredito que meus pontos fortes, valores e interesses estão diretamente alinhados às metas de segurança de qualquer organização. 
+      Por meio de uma atuação técnica precisa, ética e estratégica, posso contribuir para o fortalecimento da postura de segurança, 
+      mitigação de riscos e resposta eficiente a ameaças digitais.
     </p>
   </div>
 
@@ -41,6 +45,11 @@
       I am prepared to work with various organizations — public or private — offering my services to protect sensitive data,
       support the creation of effective security policies, and investigate potential security breaches and cyberattacks.
     </p>
+    <p>
+      I believe that my strengths, values, and interests are directly aligned with the security goals of any organization. 
+      Through precise technical execution, ethical commitment, and strategic action, I can contribute to strengthening 
+      security posture, mitigating risks, and responding effectively to digital threats.
+    </p>
   </div>
 
   <div class="contact">
@@ -51,3 +60,4 @@
 
 </body>
 </html>
+
